@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://bdapis.com/
 common:
+  - type: DomainSecurity
+    url: security/bdapis-domain-security.yml
   - type: Website
     url: https://bdapis.com/
   - type: PublicAPIsListing
