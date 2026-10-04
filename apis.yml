@@ -39,7 +39,6 @@ apis:
   - name: BdAPIs
     description: "Get divisions, districts, and upazzilas of Bangladesh"
     humanURL: https://bdapis.com/
-    baseURL: https://bdapis.com/
     tags:
       - Geocoding
     properties:
